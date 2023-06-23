@@ -19,6 +19,5 @@ Before running scraper, you need to have the following installed in your develop
 
 ## How to run:
 ```bash
-    tsc -w
     npm start
 ```
